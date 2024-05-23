@@ -1,0 +1,4 @@
+/home/Jonatas/Programs/ServidorHttpBasico/obj/Debug/net5.0/ServidorHttpBasico.GeneratedMSBuildEditorConfig.editorconfig
+/home/Jonatas/Programs/ServidorHttpBasico/obj/Debug/net5.0/ServidorHttpBasico.AssemblyInfoInputs.cache
+/home/Jonatas/Programs/ServidorHttpBasico/obj/Debug/net5.0/ServidorHttpBasico.AssemblyInfo.cs
+/home/Jonatas/Programs/ServidorHttpBasico/obj/Debug/net5.0/ServidorHttpBasico.csproj.CoreCompileInputs.cache

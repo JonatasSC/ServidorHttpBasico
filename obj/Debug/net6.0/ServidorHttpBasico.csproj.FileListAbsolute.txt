@@ -1,0 +1,15 @@
+/home/Jonatas/Programs/ServidorHttpBasico/obj/Debug/net6.0/ServidorHttpBasico.GeneratedMSBuildEditorConfig.editorconfig
+/home/Jonatas/Programs/ServidorHttpBasico/obj/Debug/net6.0/ServidorHttpBasico.AssemblyInfoInputs.cache
+/home/Jonatas/Programs/ServidorHttpBasico/obj/Debug/net6.0/ServidorHttpBasico.AssemblyInfo.cs
+/home/Jonatas/Programs/ServidorHttpBasico/obj/Debug/net6.0/ServidorHttpBasico.csproj.CoreCompileInputs.cache
+/home/Jonatas/Programs/ServidorHttpBasico/bin/Debug/net6.0/ServidorHttpBasico
+/home/Jonatas/Programs/ServidorHttpBasico/bin/Debug/net6.0/ServidorHttpBasico.deps.json
+/home/Jonatas/Programs/ServidorHttpBasico/bin/Debug/net6.0/ServidorHttpBasico.runtimeconfig.json
+/home/Jonatas/Programs/ServidorHttpBasico/bin/Debug/net6.0/ServidorHttpBasico.dll
+/home/Jonatas/Programs/ServidorHttpBasico/bin/Debug/net6.0/ServidorHttpBasico.pdb
+/home/Jonatas/Programs/ServidorHttpBasico/obj/Debug/net6.0/ServidorHttpBasico.dll
+/home/Jonatas/Programs/ServidorHttpBasico/obj/Debug/net6.0/refint/ServidorHttpBasico.dll
+/home/Jonatas/Programs/ServidorHttpBasico/obj/Debug/net6.0/ServidorHttpBasico.pdb
+/home/Jonatas/Programs/ServidorHttpBasico/obj/Debug/net6.0/ServidorHttpBasico.genruntimeconfig.cache
+/home/Jonatas/Programs/ServidorHttpBasico/obj/Debug/net6.0/ref/ServidorHttpBasico.dll
+/home/Jonatas/Programs/ServidorHttpBasico/obj/Debug/net6.0/ServidorHttpBasico.csproj.AssemblyReference.cache
