@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "oGYCnk2sZkWagcW/rtKQOkTXdG8BjGthR0jmzGl19WFhzvbaS2eam7EieMAn+gicm7kXdG7UHTbnl1nMB6osTQ==",
+  "dgSpecHash": "uk2cHZ1cXMMuqVhnOITa04mJEhrB9SCOjwlZx5hBCtzj5ozyufmo7GcQ//6S+9UC3c3xTI9E7/o1dfSOMjlm4w==",
   "success": true,
   "projectFilePath": "/home/Jonatas/Programs/ServidorHttpBasico/ServidorHttpBasico.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/Jonatas/.nuget/packages/microsoft.netcore.app.ref/6.0.30/microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "/home/Jonatas/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.30/microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "/home/Jonatas/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.30/microsoft.netcore.app.host.linux-x64.6.0.30.nupkg.sha512"
+  ],
   "logs": []
 }
