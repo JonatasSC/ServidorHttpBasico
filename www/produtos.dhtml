@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lista de produtos</title>
+</head>
+<body>
+    <H1>Listagem de Produtos</H1>
+    <hr>
+    <a href="cadastroproduto.dhtml">Cadastrar Novo Produto</a>
+    <hr>
+    <table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td>
+                Codigo
+            </td>
+            <td>
+                Nome
+            </td>
+        </tr>
+        {{HtmlGerado}}
+    </table>
+</body>
+</html>

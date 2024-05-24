@@ -6,6 +6,8 @@
     <title>Pagina HTML</title>
 </head>
 <body>
-    <H1>Sobre</H1>
+    <H1>Tipos MIME Suportados</H1>
+    <hr>
+    {{HtmlGerado}}
 </body>
 </html>
